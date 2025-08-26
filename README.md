@@ -1,0 +1,1 @@
+I really enjoy reading academic papers and implementing them, usually from scratch, for the kick of it, this is the repo where I push all the ones I've implemented. Do suggest any interesting papers if you have on your mind.
